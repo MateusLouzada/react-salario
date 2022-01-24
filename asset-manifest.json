@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-salario/static/css/main.9775aa42.css",
+    "main.js": "/react-salario/static/js/main.6fa11eec.js",
+    "index.html": "/react-salario/index.html",
+    "main.9775aa42.css.map": "/react-salario/static/css/main.9775aa42.css.map",
+    "main.6fa11eec.js.map": "/react-salario/static/js/main.6fa11eec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9775aa42.css",
+    "static/js/main.6fa11eec.js"
+  ]
+}
